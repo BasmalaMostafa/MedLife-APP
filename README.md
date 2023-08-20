@@ -18,7 +18,7 @@
   The mobile application is built using the MVVM (Model-View-ViewModel) architectural pattern, combined with the BLoC (Business Logic Component) state management pattern. Flutter,Hive ,DIO ,Rest API , a cross-platform development framework, was chosen to ensure the app's functionality on multiple platforms. The primary focus of the mobile app is to facilitate interactions between patients and pharmacists.
 
  # Samples of Screenshots from the APP
- ![alt text](https://github.com/BasmalaMostafa/MedLife-APP/blob/main/images/1.png?raw=true)
+![alt text](https://github.com/BasmalaMostafa/MedLife-APP/blob/main/images/1.png?raw=true)
 ![alt text](https://github.com/BasmalaMostafa/MedLife-APP/blob/main/images/2.png?raw=true)
 ![alt text](https://github.com/BasmalaMostafa/MedLife-APP/blob/main/images/3.png?raw=true)
 ![alt text](https://github.com/BasmalaMostafa/MedLife-APP/blob/main/images/4.png?raw=true)
